@@ -6,5 +6,5 @@ In the script ''mainscript.py", the training options are initialiazed along with
 
 The script ''testing1.py'' performs the inference of the model to new data, to evaluate its performance for predicting the sea ice type.
 
-
+The "pap-algorithm.py" script firstly evaluates the F-1 score of the model and then applies the PaP algorithm to get the Permutation Feature Importance (PFI) scores.
 
