@@ -8,3 +8,5 @@ The script ''testing1.py'' performs the inference of the model to new data, to e
 
 The "pap-algorithm.py" script firstly evaluates the F-1 score of the model and then applies the PaP algorithm to get the Permutation Feature Importance (PFI) scores.
 
+In the "results-inspection.ipynb" notebook, some inspection of the training is happening, followed by a visualization of the permutation. Lastly, the performance metrics are being shown to evaluate the experiments.
+
