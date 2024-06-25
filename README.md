@@ -6,3 +6,5 @@ In the script ''mainscript.py", the training options are initialiazed along with
 
 The script ''testing1.py'' performs the inference of the model to new data, to evaluate its performance for predicting the sea ice type.
 
+
+
